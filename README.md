@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web based POS system**
 
-- 🌱 I’m currently learning **Flutter, Laravel**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **php, c#, java**
 
