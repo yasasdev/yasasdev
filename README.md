@@ -1,4 +1,4 @@
-[![MasterHead](https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge)](https://yasaslekamge.io)
+[![MasterHead](https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge.gif)](https://yasaslekamge.io)
 <h1 align="center">Hi 👋, I'm Yasas Lekamge</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 <img align="right" alt="coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
