@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **PHP, C#, C, Java**
+- 💬 Ask me about **PHP, C#, C, Java, JavaScript, Bootstrap**
 
 - 📫 How to reach me **yasaslekamge@gmail.com**
 
