@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Web based POS system**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Full-Stack Web development**
 
 - 💬 Ask me about **PHP, C#, C, Java, JavaScript, Bootstrap**
 
