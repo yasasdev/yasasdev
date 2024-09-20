@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Web based POS system**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **NodeJS + Express**
 
 - 💬 Ask me about **PHP, C#, C, Java, JavaScript, Bootstrap**
 
