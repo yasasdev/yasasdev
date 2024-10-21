@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Web based POS system**
+- 🔭 I’m currently working on **Blog Web Application**
 
 - 🌱 I’m currently learning **NodeJS + Express**
 
