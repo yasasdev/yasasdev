@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Blog Web Application**
 
-- 🌱 I’m currently learning **NodeJS + Express**
+- 🌱 I’m currently learning **NodeJS + Express and MongoDB**
 
 - 💬 Ask me about **PHP, C#, C, Java, JavaScript, Bootstrap**
 
