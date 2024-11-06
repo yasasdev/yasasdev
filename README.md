@@ -39,7 +39,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,css,javascript,nodejs,typescript,python,mysql,mongodb,docker,azure,postman,react,flutter" />
+    <img src="https://skillicons.dev/icons?i=kotlin,css,javascript,nodejs,typescript,python,mysql,mongodb,postgresql,docker,azure,postman,react,flutter" />
   </a>
 </p>
 
