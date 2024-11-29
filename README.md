@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Blog Web Application**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter, Dart**
 
 - 💬 Ask me about **PHP, C#, C, Java, JavaScript, Bootstrap, NodeJS, Express**
 
