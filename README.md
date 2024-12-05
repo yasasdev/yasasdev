@@ -14,9 +14,9 @@
   <img alt="coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 </div>
 
-- 🔭 I’m currently working on **Blog Web Application**
+- 🔭 I’m currently working on **Notepad OAuth Application**
 
-- 🌱 I’m currently learning **Flutter, Dart**
+- 🌱 I’m currently learning **Flutter, Python**
 
 - 💬 Ask me about **PHP, C#, C, Java, JavaScript, Bootstrap, NodeJS, Express**
 
