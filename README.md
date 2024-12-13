@@ -14,7 +14,7 @@
   <img alt="coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 </div>
 
-- 🔭 I’m currently working on **Mobile Application**
+- 🔭 I’m currently working on a **Mobile Application**
 
 - 🌱 I’m currently learning **Flutter, Python**
 
