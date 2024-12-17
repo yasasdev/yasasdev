@@ -73,4 +73,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasasdev&show_icons=true&locale=en" alt="yasasdev" /></p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yasasdev)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yasasdev&theme=dark)
