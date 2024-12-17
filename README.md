@@ -73,4 +73,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasasdev&show_icons=true&locale=en" alt="yasasdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasasdev" alt="yasasdev" /></p>
+![yasasdev](https://github-readme-streak-stats.herokuapp.com/?user=yasasdev)
