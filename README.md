@@ -14,7 +14,7 @@
   <img alt="coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 </div>
 
-- 🔭 I’m currently working on a **DeFi App**
+- 🔭 I’m currently working on a **Blockchain Application**
 
 - 🌱 I’m currently learning **Web3**
 
