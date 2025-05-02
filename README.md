@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Web3**
 
-- 💬 Ask me about **PHP, C#, C, Java, JavaScript, Bootstrap, NodeJS, Express, ReactJS, Blockchain**
+- 💬 Ask me about **PHP, C#, C, Java, JavaScript, Bootstrap, NodeJS, Express, ReactJS, Blockchain, NextJS**
 
 - 📫 How to reach me **yasaslekamge@gmail.com**
 
