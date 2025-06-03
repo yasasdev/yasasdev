@@ -14,9 +14,9 @@
   <img alt="coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 </div>
 
-- 🔭 I’m currently working on a **Blockchain Application**
+- 🔭 I’m currently working on a **NextJS Project**
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **PHP, C#, C, Java, JavaScript, Bootstrap, NodeJS, Express, ReactJS, Blockchain, NextJS**
 
@@ -39,7 +39,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,css,javascript,nodejs,typescript,python,mysql,mongodb,postgresql,docker,azure,postman,react,flutter" />
+    <img src="https://skillicons.dev/icons?i=kotlin,css,javascript,nodejs,typescript,python,mysql,mongodb,postgresql,docker,azure,postman,react,flutter,nextjs" />
   </a>
 </p>
 
