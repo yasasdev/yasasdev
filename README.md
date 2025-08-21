@@ -14,11 +14,11 @@
   <img alt="coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 </div>
 
-- 🔭 I’m currently working on a **NextJS Project**
+- 🔭 I’m currently working on a **Flutter Project**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **PHP, C#, C, Java, JavaScript, Bootstrap, NodeJS, Express, ReactJS, Blockchain, NextJS**
+- 💬 Ask me about **PHP, C#, C, Java, JavaScript, Bootstrap, NodeJS, Express, ReactJS, Blockchain, NextJS, Flutter**
 
 - 📫 How to reach me **yasaslekamge@gmail.com**
 
@@ -39,7 +39,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,css,javascript,nodejs,typescript,python,mysql,mongodb,postgresql,docker,azure,postman,react,flutter,nextjs" />
+    <img src="https://skillicons.dev/icons?i=kotlin,css,javascript,nodejs,python,mysql,mongodb,postgresql,azure,postman,react,flutter,nextjs" />
   </a>
 </p>
 
