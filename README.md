@@ -67,11 +67,3 @@
   <img src="https://skillicons.dev/icons?i=githubactions,git,github" />
 </a>
 
- <br>
- 
- ---
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasasdev&show_icons=true&locale=en&layout=compact" alt="yasasdev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasasdev&show_icons=true&locale=en" alt="yasasdev" /></p>
-
