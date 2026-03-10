@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **yasaslekamge@gmail.com**
   
-- [Visit my website 🌐](https://my-portfolio-website-two-wine.vercel.app/)
+- [Visit my website 🌐](https://yasaslekamge.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
